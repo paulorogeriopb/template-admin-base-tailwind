@@ -1,4 +1,4 @@
-# Template Admin Base com Tailwind
+# Template Admin Dashboard Base com Tailwind
 
 Este é um projeto base de Dashboard Administrativo desenvolvido com HTML e Tailwind CSS, ideal para sistemas de controle, CRM, ERP, painéis internos e plataformas SaaS.
 A estrutura inclui:
